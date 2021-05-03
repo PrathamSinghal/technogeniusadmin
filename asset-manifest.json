@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/technogeniusadmin/static/css/main.2f4476bd.chunk.css",
-    "main.js": "/technogeniusadmin/static/js/main.034bbc9b.chunk.js",
-    "main.js.map": "/technogeniusadmin/static/js/main.034bbc9b.chunk.js.map",
+    "main.js": "/technogeniusadmin/static/js/main.a50d5c97.chunk.js",
+    "main.js.map": "/technogeniusadmin/static/js/main.a50d5c97.chunk.js.map",
     "runtime-main.js": "/technogeniusadmin/static/js/runtime-main.d24fc1e5.js",
     "runtime-main.js.map": "/technogeniusadmin/static/js/runtime-main.d24fc1e5.js.map",
     "static/js/2.4744782c.chunk.js": "/technogeniusadmin/static/js/2.4744782c.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.d24fc1e5.js",
     "static/js/2.4744782c.chunk.js",
     "static/css/main.2f4476bd.chunk.css",
-    "static/js/main.034bbc9b.chunk.js"
+    "static/js/main.a50d5c97.chunk.js"
   ]
 }
