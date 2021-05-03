@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/technogeniusadmin/static/css/main.2f4476bd.chunk.css",
-    "main.js": "/technogeniusadmin/static/js/main.99a22819.chunk.js",
-    "main.js.map": "/technogeniusadmin/static/js/main.99a22819.chunk.js.map",
+    "main.js": "/technogeniusadmin/static/js/main.034bbc9b.chunk.js",
+    "main.js.map": "/technogeniusadmin/static/js/main.034bbc9b.chunk.js.map",
     "runtime-main.js": "/technogeniusadmin/static/js/runtime-main.d24fc1e5.js",
     "runtime-main.js.map": "/technogeniusadmin/static/js/runtime-main.d24fc1e5.js.map",
-    "static/js/2.fd2fd18c.chunk.js": "/technogeniusadmin/static/js/2.fd2fd18c.chunk.js",
-    "static/js/2.fd2fd18c.chunk.js.map": "/technogeniusadmin/static/js/2.fd2fd18c.chunk.js.map",
+    "static/js/2.4744782c.chunk.js": "/technogeniusadmin/static/js/2.4744782c.chunk.js",
+    "static/js/2.4744782c.chunk.js.map": "/technogeniusadmin/static/js/2.4744782c.chunk.js.map",
     "static/js/3.868dd6cd.chunk.js": "/technogeniusadmin/static/js/3.868dd6cd.chunk.js",
     "static/js/3.868dd6cd.chunk.js.map": "/technogeniusadmin/static/js/3.868dd6cd.chunk.js.map",
     "index.html": "/technogeniusadmin/index.html",
     "static/css/main.2f4476bd.chunk.css.map": "/technogeniusadmin/static/css/main.2f4476bd.chunk.css.map",
-    "static/js/2.fd2fd18c.chunk.js.LICENSE.txt": "/technogeniusadmin/static/js/2.fd2fd18c.chunk.js.LICENSE.txt",
+    "static/js/2.4744782c.chunk.js.LICENSE.txt": "/technogeniusadmin/static/js/2.4744782c.chunk.js.LICENSE.txt",
     "static/media/LoginBg.f4bf510e.png": "/technogeniusadmin/static/media/LoginBg.f4bf510e.png",
     "static/media/limofynder.e5bd2d79.png": "/technogeniusadmin/static/media/limofynder.e5bd2d79.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d24fc1e5.js",
-    "static/js/2.fd2fd18c.chunk.js",
+    "static/js/2.4744782c.chunk.js",
     "static/css/main.2f4476bd.chunk.css",
-    "static/js/main.99a22819.chunk.js"
+    "static/js/main.034bbc9b.chunk.js"
   ]
 }
