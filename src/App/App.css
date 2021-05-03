@@ -1,0 +1,317 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-font-smoothing: antialiased;
+}
+
+.container{
+  width: 100%;
+  height: 100vh;
+  min-width: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin: 0px;
+  padding: 0px;
+  flex-basis: auto;
+  border: none;
+  background: transparent;
+  flex-wrap: nowrap;
+  border-radius: 0;
+  position: static;
+  box-shadow: none;
+  cursor: default;
+  overflow: initial;
+  background-size: cover;
+  -webkit-box-pack: start;
+}
+
+.container-inner{
+  width: 100%;
+  height: 100%;
+  min-width: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin: 0px;
+  padding: 0px;
+  flex-basis: auto;
+  border: none;
+  background: transparent;
+  flex-wrap: nowrap;
+  border-radius: 0;
+  position: static;
+  box-shadow: none;
+  cursor: default;
+  overflow: initial;
+  background-size: cover;
+  -webkit-box-pack: start;
+}
+
+.left-container{
+  width: calc(100% - 400px);
+  height: 100%;
+  min-width: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: 0px;
+  padding: 0px;
+  flex-basis: auto;
+  border: none;
+  flex-wrap: nowrap;
+  border-radius: 0;
+  position: static;
+  box-shadow: none;
+  cursor: default;
+  overflow: initial;
+  background-size: cover;
+  -webkit-box-pack: start;
+  background: no-repeat center center;
+}
+
+.content-container{
+  padding: 70px 40px;
+  justify-content: space-between;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  -webkit-box-pack: justify;
+}
+
+.login-right-header h1{
+  color: #fff;
+  font-weight: normal;
+  font-size: 40px;
+  margin-bottom: 10px;
+  display: block;
+}
+.login-right-header p{
+  color: #fff;
+  font-size: 18px;
+  font-weight: 100;
+  display: block;
+  margin: 0 0 10px;
+}    
+.content-container h2{
+  color: #fff;
+  font-size: 35px;
+  font-weight: normal;
+}
+
+.app-link p{
+  color: #fff;
+  margin: 0 0 10px;
+  font-size: 20px;
+}
+.other_link{
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.other_link li {
+  display: inline-block;
+  margin-right: 30px;
+  color: #fff;
+  margin: 0 0 15px;
+  font-size: 19px;
+}
+.other_link li a img {
+  width: 150px;
+  border-radius: 5px;
+}
+
+.right-container{
+  width: 400px;
+  height: 100%;
+  min-width: auto;
+  display: flex;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  margin: 0px;
+  padding: 0px;
+  flex-basis: auto;
+  border: none;
+  background: transparent;
+  flex-wrap: nowrap;
+  border-radius: 0;
+  position: static;
+  box-shadow: none;
+  cursor: default;
+  overflow: initial;
+  background-size: cover;
+}
+
+.left-content-container{
+  width: 100%;
+  height: auto;
+  min-width: auto;
+  display: flex;
+  flex-direction: column;
+  -webkit-box-pack: start;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin: 0px;
+  padding: 0 60px 0 0;
+  flex-basis: auto;
+  border: none;
+  background: transparent;
+  flex-wrap: nowrap;
+  border-radius: 0;
+  position: static;
+  box-shadow: none;
+  cursor: default;
+  overflow: initial;
+  background-size: cover;
+}
+.left-content-container img{
+  max-width: 80px;
+  margin: 0 auto 10px;
+  width: 100%;
+  
+}
+.welcome-to-para{
+  font-weight: bold;
+  font-size: 32px;
+  width: 100%;
+  color: #000;
+  line-height: normal;
+  background-color: transparent;
+  text-align: center;
+  letter-spacing: 0.6px;
+  padding: 0 0 10px 0;
+  text-decoration-line: none;
+  text-transform: initial;
+}
+.welcome-to-para span{
+  font-weight: 400;
+}
+
+.left-container-login{
+  width: 100%;
+  font-size: 26px;
+  color: #EA168C;
+  line-height: normal;
+  font-weight: bold;
+  background-color: transparent;
+  text-align: center;
+  letter-spacing: 0.6px;
+  padding: 20px 0 0px 0;
+  text-decoration-line: none;
+  text-transform: initial;
+}
+
+.logging-in-as{
+  width: 100%;
+  font-size: 16px;
+  color: #A7B1B9;
+  line-height: normal;
+  font-weight: normal;
+  background-color: transparent;
+  text-align: center;
+  letter-spacing: 0.6px;
+  padding: 0 0 20px 0;
+  text-decoration-line: none;
+  text-transform: initial;
+}
+
+.form_login{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.input_email{
+  position: relative;
+  width: 100%;
+  margin: 0 0 14px;
+}
+.input_email input{
+  border: none;
+  border-bottom: 1px solid #ccc;
+  outline: none;
+  height: 40px;
+  width: 100%;
+  border-radius: 4px;
+  padding: 10px 12px;
+  letter-spacing: 0.7px;
+  box-sizing: border-box;
+  color: #000;
+  transition: ease-in linear 0.2s;
+  padding-right: 35px;
+}
+
+.input_password{
+  position: relative;
+  width: 100%;
+  margin: 0 0 14px;
+}
+
+.input_password input{
+  border: none;
+  border-bottom: 1px solid #ccc;
+  outline: none;
+  height: 40px;
+  width: 100%;
+  border-radius: 4px;
+  padding: 10px 12px;
+  letter-spacing: 0.7px;
+  box-sizing: border-box;
+  color: #000;
+  transition: ease-in linear 0.2s;
+  padding-right: 35px;
+}
+.form_login button{
+  padding: 0 30px;
+  width: auto;
+  height: 40px;
+  font-weight: 600;
+  color: #fff;
+  background-color: #EA168C;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 10px 10px rgb(0 0 0 / 8%);
+  cursor: pointer;
+  transition: all 0.25s cubic-bezier(0.02,0.01,0.47,1);
+}
+
+.forgot_pswd{
+  width: 100%;
+  height: auto;
+  min-width: auto;
+  display: flex;
+  flex-direction: column;
+  -webkit-box-pack: start;
+  justify-content: flex-start;
+  -webkit-box-align: center;
+  align-items: center;
+  margin: 0px;
+  padding: 20px 0 0 0;
+  flex-basis: auto;
+  border: none;
+  background: transparent;
+  flex-wrap: nowrap;
+  border-radius: 0;
+  position: static;
+  box-shadow: none;
+  cursor: default;
+  overflow: initial;
+  background-size: cover;
+}
+.forgot_pswd a{
+  font-size: 18px;
+  padding: 0;
+  color: #EA168C;
+  transition: 0.2s ease-in;
+  font-weight: 500;
+}
